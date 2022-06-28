@@ -6,4 +6,4 @@ SPA приложение имитирующее работу корзины то
 * Товары можно удалять, изменять их колличество, а также добавлять новые товары
 * При нажатии на кнопку "Add product" из тестовых данных рандомно генерируется новый товар
 * Ссылка на GitHub Pages: https://valentinamazyarova.github.io/cart-build/
-* Посмотреть код: 
+* Посмотреть код: https://github.com/valentinamazyarova/card-dev.git
